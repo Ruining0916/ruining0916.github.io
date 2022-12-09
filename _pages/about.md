@@ -152,4 +152,4 @@ My research interests mainly lie in Natural Language Processing (NLP), Knowlegde
 
 
 
-Find it boring to read all "Academic" staff, I am good at emotion problems, and I enjoy chatting with people with a cup of coffee ☕️. I love sunshine, wind and birds singing at my window every night. Besides that, I can play the piano, violin and Ukulele. If we can be friends in the further, I am more than excited about your stories. ☀️
+Find it boring to read all "Academic" staff?  I am good at solving emotion problems, and I enjoy chatting with people with a cup of coffee ☕️. I love sunshine, wind and birds singing at my window every morning. Besides that, I can play the piano, violin and Ukulele. If we can be friends in the further, I am more than excited about your stories. ☀️ss
