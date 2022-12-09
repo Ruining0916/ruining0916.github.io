@@ -78,7 +78,7 @@ My research interests mainly lie in Natural Language Processing (NLP), Knowlegde
 
 - Built IOT application (African world simulator) in cloud environment, aiming to deploy conventional hardware in cloud
 - Contributed to design and implement FSM animation, UI, and cross-platform supports with Unity game engine
-- Developed C\# scripts to communicate with API back-ends and infrastructure teams, integrating isolated parts
+- Developed C# scripts to communicate with API back-ends and infrastructure teams, integrating isolated parts
 
 **Artificial Intelligence in Finance Technology**																       Jan. 2020 - Dec. 2020
 
@@ -100,14 +100,14 @@ My research interests mainly lie in Natural Language Processing (NLP), Knowlegde
 
 **Gameplay .Inc**																															Dec. 2021 - Apr. 2022
 
-*Data engineer \& Software developer Intern*																		
+*Data engineer & Software developer Intern*																		
 
-- Implemented weakly supervised automatic labeling pipeline, increased speed by 80\%
+- Implemented weakly supervised automatic labeling pipeline, increased speed by 80%
 - Developed a booking and scheduling application, contributed to back-end of app design and code implementation, and assisted with website test
 
 **ATLAS Internship - VR evaluation team**																			    Oct. 2021 - Dec. 2021
 
-*Web developer  \& VR Software evaluation*
+*Web developer  & VR Software evaluation*
 
 - Designed the structure of websites to improve user experience,used JavaScript, Drupal, HTML
 - Developed and tested VR software for Education work in U of I, aimed to bring the VR technologies in real class and promoted common use of VR
