@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey there, I am Ruining (Christine) Zhao, a recent graduate with a Bachelor of Science in Mathematics & Computer Science from the University of Illinois Urbana-Champaign. I am fortunate to be a member of [Data Mining Group (DMG)](http://dm1.cs.uiuc.edu/) advised by Prof. Jiawei Han and the [BLENDER lab](https://blender.cs.illinois.edu/) advised by Prof. Heng Ji. Before joining DMG and Blender, I was a research intern at [IDEA Lab](http://tonghanghang.org/) advised by Prof. Hanghang Tong.
+Hey there! I am Ruining (Christine) Zhao, a recent graduate with a Bachelor of Science in Mathematics & Computer Science from the University of Illinois Urbana-Champaign. I am fortunate to be a member of [Data Mining Group (DMG)](http://dm1.cs.uiuc.edu/) advised by Prof. Jiawei Han and the [BLENDER lab](https://blender.cs.illinois.edu/) advised by Prof. Heng Ji. Before joining DMG and Blender, I was a research intern at [IDEA Lab](http://tonghanghang.org/) advised by Prof. Hanghang Tong.
 
 My current research interests are **Natural Language Processing, Data Mining, Knowledge graph**. More specifically, I am motivated by below questions:
 
@@ -16,7 +16,7 @@ My current research interests are **Natural Language Processing, Data Mining, Kn
 
 - **Knowledge Representations:** How does symbolic science connect the linguistic and numeric worlds (bridge)?
 
-- **R*easoning Paths:** How can we enable language systems to think as human beings with the study of language acquisition (top-down approach)?
+- **Reasoning Paths:** How can we enable language systems to think as human beings with the study of language acquisition (top-down approach)?
 
 
 
