@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=WzbdiyQAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
@@ -14,3 +14,20 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+## Publication
+
+### 2023
+
+- Instruct and Extract: Instruction Tuning for On-Demand Information Extraction. [Paper](https://arxiv.org/abs/2310.16040)
+  Yizhu Jiao, Ming Zhong, Sha Li, Ruining Zhao, Siru Ouyang, Heng Ji, Jiawei Han.
+  EMNLP 2023
+- Open-Domain Hierarchical Event Schema Induction by Incremental Prompting and Verification. [Paper](https://arxiv.org/abs/2307.01972)[Code](https://github.com/raspberryice/inc-schema)
+  Sha Li, *Ruining Zhao*, Manling Li, Heng Ji, Chris Callison-Burch, Jiawei Han.
+  ACL 2023
+
+
+### 2022
+- Knowledge Graph Comparative Reasoning for Fact Checking:Problem Definition and Algorithms. [Paper](http://sites.computer.org/debull/A22dec/p19.pdf)
+  Lihui Liu, *Ruining Zhao*, Boxin Du, Yi Ren Fung, Heng Ji, Jiejun Xu, Hanghang Tong.
+  IEEE 2022
