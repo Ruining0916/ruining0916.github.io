@@ -15,19 +15,18 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# Publication
 
-### 2023
+# 2023
 
-- Instruct and Extract: Instruction Tuning for On-Demand Information Extraction. [Paper](https://arxiv.org/abs/2310.16040)
-  Yizhu Jiao, Ming Zhong, Sha Li, Ruining Zhao, Siru Ouyang, Heng Ji, Jiawei Han.
+- Instruct and Extract: Instruction Tuning for On-Demand Information Extraction. [[Paper]](https://arxiv.org/abs/2310.16040) \n
+  Yizhu Jiao, Ming Zhong, Sha Li, Ruining Zhao, Siru Ouyang, Heng Ji, Jiawei Han. \n
   EMNLP 2023
-- Open-Domain Hierarchical Event Schema Induction by Incremental Prompting and Verification. [Paper](https://arxiv.org/abs/2307.01972)[Code](https://github.com/raspberryice/inc-schema)
-  Sha Li, *Ruining Zhao*, Manling Li, Heng Ji, Chris Callison-Burch, Jiawei Han.
+- Open-Domain Hierarchical Event Schema Induction by Incremental Prompting and Verification. [[Paper]](https://arxiv.org/abs/2307.01972) [[Code]](https://github.com/raspberryice/inc-schema) \n
+  Sha Li, *Ruining Zhao*, Manling Li, Heng Ji, Chris Callison-Burch, Jiawei Han. \n
   ACL 2023
 
 
-### 2022
-- Knowledge Graph Comparative Reasoning for Fact Checking:Problem Definition and Algorithms. [Paper](http://sites.computer.org/debull/A22dec/p19.pdf)
-  Lihui Liu, *Ruining Zhao*, Boxin Du, Yi Ren Fung, Heng Ji, Jiejun Xu, Hanghang Tong.
+# 2022
+- Knowledge Graph Comparative Reasoning for Fact Checking:Problem Definition and Algorithms. [[Paper]](http://sites.computer.org/debull/A22dec/p19.pdf)
+  Lihui Liu, *Ruining Zhao*, Boxin Du, Yi Ren Fung, Heng Ji, Jiejun Xu, Hanghang Tong. \n
   IEEE 2022
