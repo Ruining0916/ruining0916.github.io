@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruining Zhao"
 title_separator          : "-"
 name                     : &name "Ruining Zhao"
-description              : &description "Mathematics and Computer Science University of Illinois at Urbana-Champaign (UIUC)"
+description              : &description "Mathematics and Computer Science @ University of Illinois at Urbana-Champaign"
 url                      : https://ruining0916.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ruining0916.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ruining Zhao"
   avatar           : "profile.jpeg"
-  bio              : "Mathematics and Computer Science University of Illinois at Urbana-Champaign (UIUC)"
+  bio              : "Mathematics and Computer Science @ University of Illinois at Urbana-Champaign"
   location         : "Illinois, United States"
   employer         :
   pubmed           :
