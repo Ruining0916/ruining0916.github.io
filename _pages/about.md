@@ -12,9 +12,9 @@ Hey there! I am Ruining (Christine) Zhao, a recent graduate with a Bachelor of S
 
 My current research interests are **Natural Language Processing, Data Mining, Knowledge graph and Foundemantal Machine Learning**. More specifically, I am motivated by below questions:
 
-- **LLM Adaptation** fundamental paradigm shift to current LLM training frameworks
-- **Beyond Language** emotion and human behaviors understanding supported by reasoning and creative generating ability of LLMs
-- **Scientific Discovery** interdisciplinary applications of modern machine learning models
+- **LLM Adaptation:** fundamental paradigm shift to current LLM training frameworks
+- **Beyond Language:** emotion and human behaviors understanding supported by reasoning and creative generation ability of LLMs
+- **Scientific Discovery:** joint learning of scientific elements and Language
 
 
 
