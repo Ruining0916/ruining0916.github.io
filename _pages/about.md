@@ -19,7 +19,7 @@ My current research interests are **Natural Language Processing, Data Mining, Kn
 
 
 ## News:
-- [Feb 2023] One paper ["Massively Multi-Cultural Knowledge Acquisition & LM Benchmarking"](https://arxiv.org/abs/2402.09369) has been arxived
+- [Feb 2024] One paper ["Massively Multi-Cultural Knowledge Acquisition & LM Benchmarking"](https://arxiv.org/abs/2402.09369) has been arxived
 - [Oct 2023] One paper ["Instruct and Extract: Instruction Tuning for On-Demand Information Extraction"](https://arxiv.org/abs/2310.16040) has been accepted to EMNLP’ 2023
 - [May 2023] One paper ["Open-Domain Hierarchical Event Schema Induction by Incremental Prompting and Verification"](https://arxiv.org/abs/2307.01972) has been accepted to ACL's 2023
 - [Dec 2022] One paper ["Knowledge Graph Comparative Reasoning for Fact Checking:Problem Definition and Algorithms"](http://sites.computer.org/debull/A22dec/p19.pdf) has been accepted to IEEE's 2022
